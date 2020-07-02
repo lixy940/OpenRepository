@@ -28,7 +28,7 @@
 		<google.guava.version>18.0</google.guava.version>
 		<oracle-driver-ojdbc6.version>12.1.0.1</oracle-driver-ojdbc6.version>
 		<postgresql.version>9.1-901-1.jdbc4</postgresql.version>
-		<mysql.version>6.0.6</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<websocket.version>4.2.4.RELEASE</websocket.version>
 		<joda.time.version>2.8.1</joda.time.version>
 		<ftp.version>1.4.1</ftp.version>
